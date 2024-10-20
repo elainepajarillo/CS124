@@ -1,9 +1,9 @@
 # Write a Max function in Java 
-The function should compare integers, real numbers, or strings, and returns the largest one.
+The function should compare integers, real numbers, or strings, and return the largest one.
 
 The functions can have two or three parameters of the same type.
 
-Given the Test program written in C++, we were tasked to translate the program in Java and do the given specification for the program.
+Given the Test program written in C++, we were tasked to translate the program into Java and do the given specification for the program.
 
 ## Test program written in C++
 main()
